@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<isoplayer>
+  <char login="a" password="a" x="110" y="164" z="0" xiso="-54" yiso="137" width="16" height="16" depth="41371" dirx="-1" diry="0" frame="1" speed="5" jumpstart="-14" jumpspeed="0" gravity="2" slope="0" ladder="0" high="0" fall="false" jump="false" speeding="0" path="" />
+  <char login="b" password="b" x="33" y="94" z="0" xiso="-61" yiso="64" width="16" height="16" depth="19357" dirx="0" diry="1" frame="1" speed="5" jumpstart="-14" jumpspeed="0" gravity="2" slope="0" ladder="0" high="0" fall="false" jump="false" speeding="0" path="" />
+  <char login="c" password="c" x="130" y="210" z="10" xiso="-80" yiso="160" width="16" height="16" depth="51517" dirx="1" diry="0" frame="1" speed="5" jumpstart="-14" jumpspeed="0" gravity="2" slope="-10" ladder="0" high="0" fall="false" jump="false" speeding="0" path="" />
+  <char id="100" login="local" password="local" x="30" y="30" z="0" xiso="0" yiso="30" dirx="0" diry="0" speed="5" depth="10000" frame="1" width="16" height="16" jumpstart="-14" jumpspeed="0" gravity="2" high="0" jump="0" fall="0" slope="0" ladder="0" speeding="0" path="" />
+  <char login="d" password="d" x="30" y="30" z="0" xiso="0" yiso="30" dirx="0" diry="0" speed="5" depth="10003" frame="1" width="16" height="16" jumpstart="-14" jumpspeed="0" gravity="2" high="0" jump="0" fall="0" slope="0" ladder="0" speeding="0" path=""/>
+  <char login="e" password="e" x="30" y="30" z="0" xiso="0" yiso="30" dirx="0" diry="0" speed="5" depth="10004" frame="1" width="16" height="16" jumpstart="-14" jumpspeed="0" gravity="2" high="0" jump="0" fall="0" slope="0" ladder="0" speeding="0" path="" />
+</isoplayer>
+

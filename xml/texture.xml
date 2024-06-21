@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture>
+	<tileSet>
+		<png tileSetName="tileSet1" tileWidth="60" tileHeight="40" tileX="10" tileY="6">texture/tile/tileSet.png</png>
+	</tileSet>
+	
+	<addTileSet>
+		<png tileSetName="addTileSet1"  tileWidth="60" tileHeight="40" tileX="10" tileY="6">texture/tile/addTileSet.png</png>
+	</addTileSet>
+	
+	<objectSet>
+		<png tileSetName="objectSetSmall"  tileWidth="60" tileHeight="40" tileX="10" tileY="6">texture/tile/objectSetSmall.png</png>
+	<png tileSetName="objectSetMedium"  tileWidth="60" tileHeight="80" tileX="10" tileY="3">texture/tile/objectSetMedium.png</png>
+	<png tileSetName="objectSetMedium2"  tileWidth="60" tileHeight="80" tileX="10" tileY="3">texture/tile/objectSetMedium2.png</png>
+	<png tileSetName="objectSetLarge"  tileWidth="60" tileHeight="120" tileX="10" tileY="2">texture/tile/objectSetLarge.png</png>
+	<png tileSetName="objectSetMega"  tileWidth="60" tileHeight="160" tileX="10" tileY="1">texture/tile/objectSetMega.png</png>
+	<png tileSetName="objectSetMega2"  tileWidth="60" tileHeight="160" tileX="10" tileY="1">texture/tile/objectSetMega2.png</png>
+	</objectSet>
+</texture>

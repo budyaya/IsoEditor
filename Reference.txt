@@ -1,0 +1,4 @@
+Blog AS3: http://www.emanueleferonato.com
+Learn AS3 (designing a game): http://gamedev.michaeljameswilliams.com/2008/09/17/avoider-game-tutorial-1/
+XML: http://www.kirupa.com/developer/flashcs3/using_xml_as3_pg5.htm
+Event:http://www.adobe.com/fr/devnet/actionscript/articles/event_handling_as3_02.html

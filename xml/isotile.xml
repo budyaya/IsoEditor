@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<isotile>
+<tile id='0' walkable='0' ladder='0' clip='tile' frame='3' x='30' y='30' z='0' xiso='0' yiso='30' width='30' height='30' move='1' select='0' action ='0' evolution='0' dirx='0' diry='0' loop='2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,0,0,0,0,0,0,0,0,0,0' speed='2' jumpstart='-14' jumpspeed='0' gravity='2' slope='0' high='0' jump='0' fall='0'/>
+</isotile>

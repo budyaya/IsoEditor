@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruction>
+<upleft type ='Move' text='Deplacement: Croix &lt;br&gt;Sauter: Barre espace'/>
+<upright type ='Action' text='A : Alphability&lt;br&gt;Alt: Pas cote '/>
+<downleft type ='Autre' text='autre'/>
+<downright type ='Autre' text='autre'/>
+</instruction>
